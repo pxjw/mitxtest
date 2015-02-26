@@ -1,5 +1,10 @@
+# Assume s is a string of lower case characters.
+
+# Write a program that prints the number of times the string 'bob' occurs in s. 
+# For example, if s = 'azcbobobegghakl', then your program should print
 s = raw_input("input a String:")
-
+
+
 str1 = "bob"
 
 def searchs(s,str1):
